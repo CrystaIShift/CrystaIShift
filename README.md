@@ -9,7 +9,7 @@
 <p align="center"> <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/02f8a73e-e66b-45c5-8931-0b1a60584ab6" />
 <p align="center"> Hello!
 <p align="center"> you can call me by
-<p align="center"> Apollo⠀⠀:⠀⠀Iris
+<p align="center"> Hyper⠀⠀:⠀⠀Meds
 <p align="center"> he ⠀!⠀ It⠀ ! ⠀They
 <h4 align="center"> <a href="https://meds.atabook.org">♡ ⠀𝑀𝒶𝒾𝓁 ⠀♡</a> 
 

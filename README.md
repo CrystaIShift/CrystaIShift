@@ -6,7 +6,7 @@
 ⠀
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nyx1c&label=^%203%20^&color=89CFF0&style=flat"  alt="mothconsider" /> </p>             
 ⠀
-<p align="center"> <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/58844628-7bae-46e9-8ec4-b5cb1085c84b" />
+<p align="center"> <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/02f8a73e-e66b-45c5-8931-0b1a60584ab6" />
 <p align="center"> Hello!
 <p align="center"> you can call me by
 <p align="center"> Apollo⠀⠀:⠀⠀Iris
